@@ -1,0 +1,1 @@
+select sum(cost) as prices from books;
